@@ -63,5 +63,6 @@ If you want to landing jobs at Amazon, prepare-well for Java and skills of big d
 
 ### Culture Fit at Amazon
 ![wordcloud](F3.png)
+To better understand personalities that Amazon wants to have, this project extracted the words related to personality by using natural language processing (NLTK). 
 
-The ideal data person of Amazon is a person who are innovative, analytical thinking, fast paced, elastic, creative and be good at teamwork. Highlight and connect those characteristics with previous working experiece in resume will help to landing jobs at Amazon.
+The result demonstrates that ideal data person of Amazon is a person who are innovative, analytical thinking, fast paced, elastic, creative and be good at teamwork. Highlight and connect those characteristics with previous working experiece in resume will help to landing jobs at Amazon.
