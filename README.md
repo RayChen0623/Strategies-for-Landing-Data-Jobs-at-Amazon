@@ -43,7 +43,7 @@ Amazon job dataset (Amazon_jobs_database.csv) is collected using Selenium and Be
 
 This project provides three actionable insights, including time, skillset and culture fit. 
 
-#### Best Time to Apply
+### Best Time to Apply
 
 ![heatmao](F1.png)
 
@@ -51,7 +51,7 @@ According to this heatmap,  it's obviously the trend of posting jobs at Amazon a
 - Data jobs posted in Amazon was growing from 2015 to 2017.
 - The fourth quarter is the best chance to apply Amazon data-related jobs especially in December. December got the maximum of posted jobs from 2015 to 2017.
 
-#### Skill Set applicant better have for applying Amazon’s job.
+### Skill Set applicant better have for applying Amazon’s job.
 ![barplot](F2.png)
 
 There are some interesting insights in skills:
@@ -61,7 +61,7 @@ There are some interesting insights in skills:
 
 If you want to landing jobs at Amazon, prepare-well for Java and skills of big data will make you be a stronger applicant.  
 
-#### Culture Fit at Amazon
+### Culture Fit at Amazon
 ![wordcloud](F3.png)
 
 The ideal data person of Amazon is a person who are innovative, analytical thinking, fast paced, elastic, creative and be good at teamwork. Highlight and connect those characteristics with previous working experiece in resume will help to landing jobs at Amazon.
