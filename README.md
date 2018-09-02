@@ -13,7 +13,7 @@ Being part of FLAG is the dream of most new grad students. Then, How to be part 
 
 Amazon job dataset (Amazon_jobs_database.csv) is collected using Selenium and BeautifulSoup by scraping all of the jobs for Amazon job site from 2014 to 2018.
 
-### Content of Dataset
+#### Content of Dataset
 - <b>Title</b>: The title of the job
 - <b>Location</b>: Location of the job
 - <b>Posting_date</b>: Posting date of the job
