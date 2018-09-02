@@ -17,12 +17,12 @@ Being part of FLAG is the dream of most new grad students. Then, How to be part 
 Amazon job dataset (Amazon_jobs_database.csv) is collected using Selenium and BeautifulSoup by scraping all of the jobs for Amazon job site from 2014 to 2018.
 
 ## 3 Content of Dataset
-- Title: The title of the job
-- Location: Location of the job
-- Posting_date : Posting date of the job
-- Description: Overall description for the job
-- Basic Qualifications: Minimum Qualifications for the job
-- Preferred Qualifications: Preferred Qualifications for the job
+- <b>Title</b>: The title of the job
+- <b>Location</b>: Location of the job
+- <b>Posting_date</b>: Posting date of the job
+- <b>Description</b>: Overall description for the job
+- <b>Basic Qualifications</b>: Minimum Qualifications for the job
+- <b>Preferred Qualifications</b>: Preferred Qualifications for the job
 
 ## 4 Research Questions
 - What's the trend of Job Description in Amazon? What's the best time period to pursue career in Amazon?
