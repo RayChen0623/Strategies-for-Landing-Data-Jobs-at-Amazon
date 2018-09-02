@@ -1,11 +1,11 @@
 # Strategies-for-Landing-Data-Jobs-at-Amazon
 ## Table of Contents
-- 1. General Description
-- 2. Dataset Description
-- 3. Content of Dataset
-- 4. Research Questions
-- 5. Tech Stack
-- 6. Process
+1. General Description
+2. Dataset Description
+3. Content of Dataset
+4. Research Questions
+5. Tech Stack
+6. Process
 
 
 ## 1 General Description 
