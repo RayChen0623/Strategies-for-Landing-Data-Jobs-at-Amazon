@@ -41,6 +41,27 @@ Amazon job dataset (Amazon_jobs_database.csv) is collected using Selenium and Be
 
 ## 5 Process
 
-![pyplot](newplot.png)
-![heatmap](DV10.png)
-![heatmap](DV6.png)
+This project provides three actionable insights, including time, skillset and culture fit. 
+
+#### Best Time to Apply
+
+![heatmao](F1.png)
+
+According to this heatmap,  it's obviously the trend of posting jobs at Amazon are:
+- Data jobs posted in Amazon was growing from 2015 to 2017.
+- The fourth quarter is the best chance to apply Amazon data-related jobs especially in December. December got the maximum of posted jobs from 2015 to 2017.
+
+#### Skill Set applicant better have for applying Amazon’s job.
+![barplot](F2.png)
+
+There are some interesting insights in skills:
+- Java is dominated skill of data jobs at Amazon.
+- R wouldn't make you be a strong applicant for jobs at Amazon. 
+- skills, such as Hadoop, Hive, Kafka, NoSQL, increased a lot from Basic requirement to preferred requirement, which means that Amazon hopes talents can handle big data.
+
+If you want to landing jobs at Amazon, prepare-well for Java and skills of big data will make you be a stronger applicant.  
+
+#### Culture Fit at Amazon
+![wordcloud](F3.png)
+
+The ideal data person of Amazon is a person who are innovative, analytical thinking, fast paced, elastic, creative and be good at teamwork. Highlight and connect those characteristics with previous working experiece in resume will help to landing jobs at Amazon.
